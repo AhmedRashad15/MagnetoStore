@@ -1,0 +1,16 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 2' test cases in the current suite                                        
+                             Test Method: 'TestPackage.TestClass.checkResultStatsIsNotEmptyAfterSearchingForAQuery'                             
+                              Test Description: 'Check that Result Stats is not empty after searching for a query.'                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Text cleared Using Native Clear @15-09-2024 13:30:40.0545 PM
+[ReportManager] Type "SHAFT_Engine" into "Search". @15-09-2024 13:30:40.0673 PM
+[ReportManager] Key press "ENTER" against "Search". @15-09-2024 13:30:41.0089 PM
+[ReportManager] Assert that the element located by "By.id: result-stats" text does not equal "". @15-09-2024 13:30:41.0096 PM
+[ReportManager] Expected "", and actual "About 531,000 results (0.21 seconds) " @15-09-2024 13:30:44.0344 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_13-30-46-423_15092024' @15-09-2024 13:30:46.0431 PM
+[ReportManager] Expected "", and actual "About 531,000 results (0.21 seconds) " @15-09-2024 13:30:46.0434 PM
+[ReportManager] Assertion passed @15-09-2024 13:30:46.0438 PM
+[ReportManager] Check that result stats is not empty @15-09-2024 13:30:46.0439 PM
